@@ -13,7 +13,7 @@ Ce projet est une application Kotlin qui permet d'afficher des oeuvres d'arts ou
 
 - **Langage** : Kotlin
 - **Framework** : Jetpack Compose
-- **API** : [Mentionnez les API que vous utilisez, si applicable]
+
   
 ## Installation
 
