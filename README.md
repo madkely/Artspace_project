@@ -21,7 +21,6 @@ Ce projet est une application Kotlin qui permet d'afficher des oeuvres d'arts ou
    ```bash
    git clone  https://github.com/madkely/Artspace_project.git
 
-
   ## membres du groupe
 
   MADJAKOU TALLE MANUELLA
